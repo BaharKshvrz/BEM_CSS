@@ -4,10 +4,9 @@ The Block, Element, Modifier methodology (commonly referred to as BEM) is a popu
 Here’s an example of what a CSS developer writing in the BEM style might write:
 
 
-.btn {}          /* Block component */
+.btn {}           /* Block component */
 
-
-.btn__price {}  /* Element that depends upon the block */ 
+.btn__price {}    /* Element that depends upon the block */ 
 
 .btn--orange {}   /* Modifier that changes the style of the block */
 
